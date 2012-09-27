@@ -16,15 +16,15 @@
     
 * __Do not Redistribute property of Mojang__
 
-    Do not distribute any property of Mojang to other members on the forum.  This includes: the minecraft launcher, the minecraft Jar, and the Minecraft server client.
+    Do not distribute any property of Mojang to other members on the forum. This includes: the minecraft launcher, the minecraft Jar, and the Minecraft server client.
 
 * __Do not give out or request personal information__
 
-    Personal information includes: Your location, your birthday, your transaction id, and credit card details.  This information can be used to steal your Minecraft/Mojang account, and should not be given out under any circumstances.
+    Personal information includes: Your location, your birthday, your transaction id, and credit card details. This information can be used to steal your Minecraft/Mojang account, and should not be given out under any circumstances.
 
 * __Do not request help on Topics that do not relate to your issue__
 
-    If you cannot find a topic that relates to your issue, then make a new topic about your issue.  Posting on random support threads will just make it harder for other people to get support.
+    If you cannot find a topic that relates to your issue, then make a new topic about your issue. Posting on random support threads will just make it harder for other people to get support.
     
 * __Do not post forum support questions in this section__
 
@@ -48,7 +48,7 @@ This section is for requesting support with a modified client.
 
 ## Server Support
 
-This section is for requesting support with the server client.  Anything non-bukkit server technical support questions should go here.
+This section is for requesting support with the server client. Anything non-bukkit server technical support questions should go here.
 
 * Do not advertise your server in this section
 * __Do not make blacklist threads__
@@ -66,11 +66,11 @@ This section is for questions about Mojang's websites, such as minecraft.net, or
 
 * __Check [help.mojang.com](http://help.mojang.com) before making a thread__
 
-    Mojang's help website, help.mojang.com, contains useful information that can help you resolve your issue.  You can check Mojang's server status, and find solutions to common account issues there.
+    Mojang's help website, help.mojang.com, contains useful information that can help you resolve your issue. You can check Mojang's server status, and find solutions to common account issues there.
 
 ## Xbox Support
 
-This section is for questions about the Xbox version of Minecraft.  Keep in mind that this version of Minecraft was made by 4J Studios.
+This section is for questions about the Xbox version of Minecraft. Keep in mind that this version of Minecraft was made by 4J Studios.
 
 * __Do not encourage modding of the Xbox version for Minecraft__
 
